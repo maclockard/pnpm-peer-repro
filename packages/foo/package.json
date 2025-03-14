@@ -1,0 +1,7 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "dependencies": {
+    "@apollo/client": "3.10.8"
+  }
+}
